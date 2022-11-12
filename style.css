@@ -32,3 +32,9 @@ font-size: 100px;
   padding: 8px 16px;
   font-size: 16px;
 }
+.links {
+  display: flex;
+  padding: 50px;
+  margin: 20px;
+  justify-content: space-between;
+}
