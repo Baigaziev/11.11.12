@@ -37,4 +37,10 @@ font-size: 100px;
   padding: 50px;
   margin: 20px;
   justify-content: space-between;
+  
+}
+blockquote {
+  display: flex;
+  font-size: 200px;
+  text-decoration: line-through;
 }
