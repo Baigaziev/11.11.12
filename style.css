@@ -44,3 +44,9 @@ blockquote {
   font-size: 200px;
   text-decoration: line-through;
 }
+.headers {
+  display: flex;
+  justify-content: space-between;
+  background-color: blue;
+  color: white;
+}
